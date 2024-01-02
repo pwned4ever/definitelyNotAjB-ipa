@@ -25,7 +25,6 @@
 		116E523D2AFDD99600E79E59 /* escapeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 116E523C2AFDD99600E79E59 /* escapeUITests.m */; };
 		116E523F2AFDD99600E79E59 /* escapeUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 116E523E2AFDD99600E79E59 /* escapeUITestsLaunchTests.m */; };
 		116E52502AFDDC9E00E79E59 /* LogHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 116E524F2AFDDC9E00E79E59 /* LogHelper.m */; };
-		11803AC22B15131100513794 /* launchctl in Resources */ = {isa = PBXBuildFile; fileRef = 11803AC12B15131000513794 /* launchctl */; };
 		11803AC62B15145300513794 /* launchctl.tc in Resources */ = {isa = PBXBuildFile; fileRef = 11803AC52B15135500513794 /* launchctl.tc */; };
 		1199BD512B0E870000250879 /* kerncs.m in Sources */ = {isa = PBXBuildFile; fileRef = 1199BD502B0E870000250879 /* kerncs.m */; };
 		11AA8B462B05C65C002AE1E5 /* trustcache.m in Sources */ = {isa = PBXBuildFile; fileRef = 11AA8B452B05C65C002AE1E5 /* trustcache.m */; };
@@ -132,7 +131,6 @@
 		116E527D2AFDE65600E79E59 /* perf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = perf.h; sourceTree = "<group>"; };
 		116E527E2AFDE65600E79E59 /* info.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = info.h; sourceTree = "<group>"; };
 		116E527F2AFDE65600E79E59 /* libkfd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = libkfd.h; sourceTree = "<group>"; };
-		11803AC12B15131000513794 /* launchctl */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = launchctl; sourceTree = "<group>"; };
 		11803AC52B15135500513794 /* launchctl.tc */ = {isa = PBXFileReference; lastKnownFileType = file; path = launchctl.tc; sourceTree = "<group>"; };
 		1199BD502B0E870000250879 /* kerncs.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = kerncs.m; sourceTree = "<group>"; };
 		1199BD562B0E88A500250879 /* kerncs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = kerncs.h; sourceTree = "<group>"; };
@@ -522,7 +520,6 @@
 			isa = PBXGroup;
 			children = (
 				11803AC52B15135500513794 /* launchctl.tc */,
-				11803AC12B15131000513794 /* launchctl */,
 				11F9D5492B3514EF00C9CB35 /* launchctl.tar */,
 				11E67B022B0A8F8400F1A291 /* com.xia0o0o0o.jailbreakd.plist */,
 				1153AEFD2B089809000F4721 /* iosbinpack.tc */,
@@ -1634,7 +1631,6 @@
 				116E52212AFDD99300E79E59 /* Main.storyboard in Resources */,
 				11F9D54C2B35168200C9CB35 /* binaries.tar in Resources */,
 				EB84AC0B2B438A1D003A29BC /* bootstrap-iphoneos-arm64.tar.gz in Resources */,
-				11803AC22B15131100513794 /* launchctl in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
