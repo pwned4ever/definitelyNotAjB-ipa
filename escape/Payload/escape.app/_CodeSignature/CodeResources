@@ -68,10 +68,6 @@
 		<data>
 		BIBVo3IIEblZxBIhuGQNO1NiQcg=
 		</data>
-		<key>launchctl</key>
-		<data>
-		/sHZtSs+qy0UYzkYBt2H0xJh7vk=
-		</data>
 		<key>launchctl.tar</key>
 		<data>
 		FcmiS/abwfA1qGVr0fyHmc3C4pg=
@@ -191,13 +187,6 @@
 			<key>hash2</key>
 			<data>
 			V8klJ9GJr9bjX9DUrHzdvTbC8Q6JC3pGtAsfe9IKcck=
-			</data>
-		</dict>
-		<key>launchctl</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qj7HAbnOYifI0RcGiYhWyUHhG7ZsvMT2uhpEWZGxZVI=
 			</data>
 		</dict>
 		<key>launchctl.tar</key>
